@@ -10,6 +10,7 @@ namespace deneme17
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("merhaba");
         }
     }
 }
